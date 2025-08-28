@@ -1,1 +1,0 @@
-# SSP_Smart-Sensor-Prediction
